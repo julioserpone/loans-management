@@ -1,0 +1,29 @@
+{
+  "name": "Loans Application",
+  "version": "1.0.1",
+  "homepage": "http://g-ocanto.com",
+  "authors": [
+    "gustavoocanto@gmail.com"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "vendor",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "./src/"
+  ],
+  "dependencies": {
+    "pnotify": "~2.0.1",
+    "fullcalendar": "~2.5.0",
+    "moment": "~2.10.6",
+    "bootbox": "4.4.0",
+    "bootstrap-show-password": "~1.0.2"
+  }
+}

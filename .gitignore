@@ -1,0 +1,7 @@
+/vendor/*
+/node_modules/*
+/storage/files/*
+/public/gocanto-bower/*
+/public/img/profile/*
+.env
+composer.lock
