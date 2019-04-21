@@ -1,5 +1,6 @@
 ## Loans App
-Loans controller
+
+Management of loans, collections, interests and banks
 
 
 ## Contact
